@@ -24,6 +24,13 @@ class _CreateRoomScreenState extends State<CreateRoomScreen> {
   }
 
   @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    _socketMethods.createRoomSuccessListener(context);
+    }
+
+  @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
     return Scaffold(
