@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:tictacktoe/colors.dart';
+import 'package:tictacktoe/provider/room_data_provider.dart';
 import 'package:tictacktoe/screens/create_room_screen.dart';
 import 'package:tictacktoe/screens/game_screen.dart';
 import 'package:tictacktoe/screens/join_room_screen.dart';
@@ -14,16 +16,19 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: bg),
-      routes: {
-        MainMenuScreen.routeName: (context) => const MainMenuScreen(),
-        JoinRoomScreen.routeName: (context) => const JoinRoomScreen(),
-        CreateRoomScreen.routeName: (context) => const CreateRoomScreen(),
-        GameScreen.routeName : (context) =>const GameScreen(),
-      },
-      initialRoute: MainMenuScreen.routeName,
+    return ChangeNotifierProvider(
+      create: (context) => RoomDataProvider(),
+      child: MaterialApp(
+        title: 'Flutter Demo',
+        theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: bg),
+        routes: {
+          MainMenuScreen.routeName: (context) => const MainMenuScreen(),
+          JoinRoomScreen.routeName: (context) => const JoinRoomScreen(),
+          CreateRoomScreen.routeName: (context) => const CreateRoomScreen(),
+          GameScreen.routeName : (context) =>const GameScreen(),
+        },
+        initialRoute: MainMenuScreen.routeName,
+      ),
     );
   }
 }
