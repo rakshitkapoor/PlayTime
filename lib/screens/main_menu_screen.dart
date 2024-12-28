@@ -35,7 +35,7 @@ class MainMenuScreen extends StatelessWidget {
                   Shadow(color: Colors.blue, blurRadius: 10),
                   Shadow(color: Colors.pink, blurRadius: 30),
                   Shadow(color: Colors.green, blurRadius: 10)
-                ], text: "PLAY-TIME", fontSize: size.width*0.16),
+                ], text: "PLAY-TIME", fontSize: size.width*0.15),
                 SizedBox(height: size.height * 0.2),
                 Column(
                   mainAxisAlignment: MainAxisAlignment.center,

@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       create: (context) => RoomDataProvider(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
+        title: 'PlayTime',
         theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: bg),
         routes: {
           MainMenuScreen.routeName: (context) => const MainMenuScreen(),
