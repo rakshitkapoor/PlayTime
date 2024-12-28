@@ -1,4 +1,5 @@
 import 'package:socket_io_client/socket_io_client.dart' as IO;
+import 'package:tictacktoe/utils/utils.dart';
 // singleton design architecture 
 
 class SocketClient {
@@ -6,7 +7,7 @@ class SocketClient {
   static SocketClient? _instance;
 
   SocketClient._internal() {
-    socket = IO.io('http://192.168.1.2:3000', <String, dynamic>{
+    socket = IO.io(BASE_URL, <String, dynamic>{
       'transports': ['websocket'],
       'autoConnect': false,
     });

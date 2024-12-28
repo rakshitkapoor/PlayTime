@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:tictacktoe/resources/game_methods.dart';
 
+const BASE_URL="https://playtime-5wu6.onrender.com";
+
 void showSnackBar(BuildContext context, String content) {
   ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(content)));
 }
