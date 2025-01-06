@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.tictacktoe.app-merged_res-27:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.tictacktoe.app-main-21:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.tictacktoe.app-merged_res-27:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "com.example.tictacktoe.app-main-21:/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.tictacktoe.app-merged_res-27:/mipmap-xxhdpi_logo.png.flat",
+        "source": "com.example.tictacktoe.app-main-21:/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.tictacktoe.app-merged_res-27:/mipmap-hdpi_logo.png.flat",
+        "source": "com.example.tictacktoe.app-main-21:/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "com.example.tictacktoe.app-merged_res-27:/mipmap-mdpi_logo.png.flat",
+        "source": "com.example.tictacktoe.app-main-21:/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "com.example.tictacktoe.app-merged_res-27:/mipmap-xhdpi_logo.png.flat",
+        "source": "com.example.tictacktoe.app-main-21:/mipmap-xhdpi/logo.png"
+    }
+]

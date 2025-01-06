@@ -1,0 +1,28 @@
+com.example.tictacktoe.app-jetified-window-1.2.0-0 /Users/kshitizkapoor/.gradle/caches/transforms-3/04ba77a7f65c9ce7f5622691cd578961/transformed/jetified-window-1.2.0/res
+com.example.tictacktoe.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-1 /Users/kshitizkapoor/.gradle/caches/transforms-3/0749745f4239af41ef4802e73e0e0563/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.tictacktoe.app-jetified-startup-runtime-1.1.1-2 /Users/kshitizkapoor/.gradle/caches/transforms-3/251072103c8c8997abd8fe3576f3670f/transformed/jetified-startup-runtime-1.1.1/res
+com.example.tictacktoe.app-jetified-window-java-1.2.0-3 /Users/kshitizkapoor/.gradle/caches/transforms-3/275e190b24dd9e5c095b2d6593169f90/transformed/jetified-window-java-1.2.0/res
+com.example.tictacktoe.app-jetified-lifecycle-livedata-core-ktx-2.7.0-4 /Users/kshitizkapoor/.gradle/caches/transforms-3/282373f8acb439638f03327f80fc9d2b/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.tictacktoe.app-jetified-savedstate-1.2.1-5 /Users/kshitizkapoor/.gradle/caches/transforms-3/34fb1ef9df232f4d0424829fdff9da50/transformed/jetified-savedstate-1.2.1/res
+com.example.tictacktoe.app-jetified-profileinstaller-1.3.1-6 /Users/kshitizkapoor/.gradle/caches/transforms-3/39a33dbdb7128b8ae39e477fb76c0a07/transformed/jetified-profileinstaller-1.3.1/res
+com.example.tictacktoe.app-jetified-lifecycle-process-2.7.0-7 /Users/kshitizkapoor/.gradle/caches/transforms-3/442323b2356d2d0ab576d2c3a09d4918/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.tictacktoe.app-core-1.13.1-8 /Users/kshitizkapoor/.gradle/caches/transforms-3/6b5802aae0c2930a042b361665c77ea9/transformed/core-1.13.1/res
+com.example.tictacktoe.app-lifecycle-viewmodel-2.7.0-9 /Users/kshitizkapoor/.gradle/caches/transforms-3/70e248942c9139e8091f2f04774fb9fb/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.tictacktoe.app-jetified-activity-1.8.1-10 /Users/kshitizkapoor/.gradle/caches/transforms-3/7bce44a4fd50946201561620f02a8717/transformed/jetified-activity-1.8.1/res
+com.example.tictacktoe.app-lifecycle-runtime-2.7.0-11 /Users/kshitizkapoor/.gradle/caches/transforms-3/9e47dd13c70b0350e7a07529ec442e2c/transformed/lifecycle-runtime-2.7.0/res
+com.example.tictacktoe.app-jetified-core-1.0.0-12 /Users/kshitizkapoor/.gradle/caches/transforms-3/a1d2d270e63b7951e23c4d04dd845d18/transformed/jetified-core-1.0.0/res
+com.example.tictacktoe.app-lifecycle-livedata-core-2.7.0-13 /Users/kshitizkapoor/.gradle/caches/transforms-3/ad9f683941f6de3dbe5c6e3a5fb4fde3/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.tictacktoe.app-lifecycle-livedata-2.7.0-14 /Users/kshitizkapoor/.gradle/caches/transforms-3/b8d3dff2d571243a77ab2506e1f03727/transformed/lifecycle-livedata-2.7.0/res
+com.example.tictacktoe.app-core-runtime-2.2.0-15 /Users/kshitizkapoor/.gradle/caches/transforms-3/c02a554508545c44e98312c3884bbbbe/transformed/core-runtime-2.2.0/res
+com.example.tictacktoe.app-jetified-tracing-1.2.0-16 /Users/kshitizkapoor/.gradle/caches/transforms-3/d9bf65fb2057c37702c189e71ee7631c/transformed/jetified-tracing-1.2.0/res
+com.example.tictacktoe.app-fragment-1.7.1-17 /Users/kshitizkapoor/.gradle/caches/transforms-3/ea6040b032ffd250ac82a03f1e2bcfbd/transformed/fragment-1.7.1/res
+com.example.tictacktoe.app-jetified-core-ktx-1.13.1-18 /Users/kshitizkapoor/.gradle/caches/transforms-3/f821d9862bd9daf1657be5ebcd7dfe5b/transformed/jetified-core-ktx-1.13.1/res
+com.example.tictacktoe.app-jetified-annotation-experimental-1.4.0-19 /Users/kshitizkapoor/.gradle/caches/transforms-3/fa4d71faa35f1f30c24ee9078ac48bec/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.tictacktoe.app-debug-20 /Users/kshitizkapoor/Documents/FlutterDev/Flutter Projects/tictacktoe/android/app/src/debug/res
+com.example.tictacktoe.app-main-21 /Users/kshitizkapoor/Documents/FlutterDev/Flutter Projects/tictacktoe/android/app/src/main/res
+com.example.tictacktoe.app-pngs-22 /Users/kshitizkapoor/Documents/FlutterDev/Flutter Projects/tictacktoe/build/app/generated/res/pngs/debug
+com.example.tictacktoe.app-resValues-23 /Users/kshitizkapoor/Documents/FlutterDev/Flutter Projects/tictacktoe/build/app/generated/res/resValues/debug
+com.example.tictacktoe.app-rs-24 /Users/kshitizkapoor/Documents/FlutterDev/Flutter Projects/tictacktoe/build/app/generated/res/rs/debug
+com.example.tictacktoe.app-mergeDebugResources-25 /Users/kshitizkapoor/Documents/FlutterDev/Flutter Projects/tictacktoe/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.tictacktoe.app-mergeDebugResources-26 /Users/kshitizkapoor/Documents/FlutterDev/Flutter Projects/tictacktoe/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.tictacktoe.app-merged_res-27 /Users/kshitizkapoor/Documents/FlutterDev/Flutter Projects/tictacktoe/build/app/intermediates/merged_res/debug
